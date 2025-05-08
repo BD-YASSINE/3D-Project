@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link rel="stylesheet" href="/styles/style.css" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 
 <body>
@@ -13,36 +14,49 @@
     <div class="layer-blur"></div>
     <div class="container">
         <header>
-            <h1 class="logo">Eraa AI</h1>
-            <nav>
+            <h1 data-aos="fade-down" data-aos-duration="1500" class="logo">Eraa AI</h1>
+            <nav data-aos="fade-down" data-aos-duration="2000">
                 <a href="#">Erra AI </a>
                 <a href="#">Services</a>
                 <a href="#">Resources</a>
                 <a href="#">Safety</a>
                 <a href="#">Contact</a>
             </nav>
-            <div class="btn">
+            <div data-aos="fade-down" data-aos-duration="2500" class="btn">
                 <button class="btn-signing">Sign In</button>
                 <button class="btn-loginin">Login In</button>
             </div>
         </header>
         <main>
             <div class="content">
-                <div class="tag-box">
+                <div data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0"
+                    data-aos-duration="1500" class="tag-box">
                     <div class="tag">INTRUCING &wedbar;</div>
                 </div>
-                <h1>ENAIL FOR<br />DEVELOPERS</h1>
-                <p class="description">
-                    The best way to fin everything you need in differents domain,what're
+                <h1 data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0"
+                    data-aos-duration="2000">ENAIL FOR<br />DEVELOPERS</h1>
+                <p data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0"
+                    data-aos-duration="2500" class="description">
+                    The best way to find everything you need in differents domain,what're
                     you waiting for try it now.
                 </p>
-                <div class="buttons">
+                <div data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0"
+                    data-aos-duration="3000" class="buttons">
                     <a href="#" class="btn-get-started">Documentation &gt;</a>
                     <a href="#" class="btn-signing-main">Try it now &gt;</a>
                 </div>
             </div>
+
         </main>
+        <spline-viewer data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0"
+            data-aos-duration="2500" class="robot-3d"
+            url="https://prod.spline.design/ZaJpxE6pj2zux4PR/scene.splinecode"></spline-viewer>
     </div>
+    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.91/build/spline-viewer.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>
