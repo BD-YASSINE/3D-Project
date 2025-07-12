@@ -11,9 +11,9 @@
 
 ## 📷 Screenshot
 
-![Website Screenshot](/assets/screenshot/Capture%20d'écran%202025-07-09%20174913.png)
+![Website Screenshot](./assets/screenshot/screenshot.png)
 
-> Make sure to replace `screenshot.png` with your actual screenshot image file placed in the root of your project.
+> Make sure `screenshot.png` is placed in the `assets/screenshot/` folder.
 
 ## 📁 Project Structure
 
@@ -22,9 +22,10 @@ project-folder/
 │
 ├── index.html
 ├── style.css
-├── assets/
-│   └── images, icons, etc.
-└── screenshot.png
+└── assets/
+    ├── image/
+    └── screenshot/
+        └── screenshot.png
 ```
 
 ## 📌 Note
