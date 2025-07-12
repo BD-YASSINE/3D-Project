@@ -1,6 +1,6 @@
-# 3D Web Design (Static Website)
+# 🤖 3D Web Design (Static Website)
 
-🎮 A visually engaging **3D-themed static website**, built using only **HTML and CSS**. This project focuses purely on frontend design and creative layout—no JavaScript or dynamic behavior is included.
+A visually engaging **3D-themed static website**, built using only **HTML and CSS**. This project focuses purely on frontend design and creative layout—no JavaScript or dynamic behavior is included.
 
 ## 🌟 Features
 
