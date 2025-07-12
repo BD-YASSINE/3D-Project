@@ -11,9 +11,8 @@
 
 ## 📷 Screenshot
 
-![Website Screenshot](./assets/screenshot/screenshot.png)
+![Website Screenshot](/assets/screenshot/Capture%20d'écran%202025-07-09%20174913.png)
 
-> Make sure `screenshot.png` is placed in the `assets/screenshot/` folder.
 
 ## 📁 Project Structure
 
