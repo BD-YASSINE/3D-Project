@@ -8,12 +8,7 @@ A visually engaging **3D-themed static website**, built using only **HTML and CS
 - 3D graphics effects using only CSS
 - Fully responsive design
 - No backend or scripting—purely HTML & CSS
-
-## 📷 Screenshot
-
-![Website Screenshot](/assets/screenshot/Capture%20d'écran%202025-07-09%20174913.png)
-
-
+  
 ## 📁 Project Structure
 
 ```
@@ -26,6 +21,10 @@ Erra_AI/
     └── screenshot/
         └── screenshot.png
 ```
+
+## 📷 Screenshot
+
+![Website Screenshot](/assets/screenshot/Capture%20d'écran%202025-07-09%20174913.png)
 
 ## 🚀 Getting Started
 
