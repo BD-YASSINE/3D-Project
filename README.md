@@ -51,12 +51,12 @@ cd Erra_AI
 
 This is a design-only project meant for UI/UX practice and frontend design exploration. It doesn't include any interactive elements or backend functionality.
 
+## 👤 Author
+
+Made by [**ERROR**](https://github.com/BD-YASSINE)
+
 ---
 
 Feel free to fork, clone, or build on top of this design. Any feedback is welcome!
 
 ---
-
-## 👤 Author
-
-Made by [**ERROR**](https://github.com/BD-YASSINE)
