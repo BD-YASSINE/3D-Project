@@ -41,6 +41,8 @@ git clone https://github.com/BD-YASSINE/Erra_AI.git
 cd Erra_AI
 ```
 
+3. Launch `index.html` in your browser.
+
 ## 📌 Note
 
 This is a design-only project meant for UI/UX practice and frontend design exploration. It doesn't include any interactive elements or backend functionality.
