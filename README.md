@@ -42,7 +42,7 @@ cd Erra_AI
 
 3. Launch `index.html` in your browser.
 
-## 🛠️ Technologies Used
+## ⚙️ Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Grid, Transforms, 3D effects)
@@ -60,5 +60,3 @@ Feel free to fork, clone, or build on top of this design. Any feedback is welcom
 ## 👤 Author
 
 Made by [**ERROR**](https://github.com/BD-YASSINE)
-
----
