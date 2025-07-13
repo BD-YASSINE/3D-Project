@@ -17,7 +17,7 @@ A visually engaging **3D-themed static website**, built using only **HTML and CS
 ## 📁 Project Structure
 
 ```
-project-folder/
+Erra_AI/
 │
 ├── index.html
 ├── style.css
@@ -25,6 +25,20 @@ project-folder/
     ├── image/
     └── screenshot/
         └── screenshot.png
+```
+
+## 🚀 Getting Started
+
+To view the project:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/BD-YASSINE/Erra_AI.git
+```
+
+2. Open the folder:
+```bash
+cd Erra_AI
 ```
 
 ## 📌 Note
